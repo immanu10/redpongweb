@@ -11,6 +11,7 @@ export default function PrivacyPage() {
     <div className="max-w-2xl min-h-screen mx-auto flex flex-col">
       <header className="border-b w-full  bg-background">
         <div className="flex items-center py-4 px-4">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="/icon.png"
             width={80}
@@ -69,7 +70,7 @@ export default function PrivacyPage() {
             </a>
           </li>
         </ul>
-        <h3 className="font-semibold text-lg my-2">Children's Privacy</h3>
+        <h3 className="font-semibold text-lg my-2">Children&apos;s Privacy</h3>
         <p className="my-2">
           My Application do not address children under the age of 13. I do not
           knowingly collect personally identifiable information from children
