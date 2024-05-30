@@ -13,7 +13,7 @@ export default function PrivacyPage() {
         <div className="flex items-center py-4 px-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/icon.png"
+            src="https://immanu10.github.io/redpongweb/icon.png"
             width={80}
             height={80}
             alt="red pong logo"
