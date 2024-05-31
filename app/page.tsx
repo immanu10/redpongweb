@@ -30,16 +30,18 @@ export default function PrivacyPage() {
         <p className="my-3">
           Welcome to
           <span className="font-medium text-muted-foreground"> Red Pong. </span>
-          This privacy policy applies to the Red Pong Game/App for mobile
-          devices that was created by Manoj Kumar M as a Free service. This
-          service is intended for use as is.
+          Thank you for your interest in Red Pong. This privacy policy applies
+          to the Red Pong Game/App for mobile devices, created by Manoj Kumar M
+          as a Paid Game, and published on google play. This service is intended
+          for use as is.
         </p>
         <h3 className="font-semibold text-lg my-2">
           Information Collection and Use
         </h3>
         <p className="my-2">
           I do not collect, store, or share any personal data from its users and
-          this game is purely created for learning/hobby purpose.
+          this game is purely created for learning/hobby purpose, and I made Red
+          Pong as a paid game to help fuel the development costs.
         </p>
         <p>
           Please note that the Application utilizes third-party services that
